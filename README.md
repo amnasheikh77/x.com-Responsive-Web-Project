@@ -4,7 +4,8 @@
                     Build using HTML and Tailwind css.
 ## Demo Screenshots:
 
-[README.md](https://github.com/user-attachments/files/18208012/README.md)
+![Navy And White Modern SEO Keyword Research Youtube Thumbnail](https://github.com/user-attachments/assets/dfb1f628-bf82-4bd4-80bc-8180ce01f023)
+
 
 ## Prerequisites
 
