@@ -2,6 +2,8 @@
 
         X.com is fully Responsive website for all devices,
                     Build using HTML and Tailwind css.
+## Demo Screenshots:
+
 
 ## Prerequisites
 
